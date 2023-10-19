@@ -1,0 +1,27 @@
+.h-wrapper{
+
+    height: 80px;
+    color: white;
+    /*background-color: rgba(0,0,0,.9)*/
+}
+.logo
+{
+    align-items: left;
+}
+.h-container 
+{
+display: flex;
+padding: 20px;
+justify-content: space-between;
+padding-top: 1rem;
+padding-bottom: 1rem;
+
+}
+.logo
+{
+    align-items: center;
+}
+.h-menu {
+ gap: 2rem;
+ padding-right: 20px;
+}

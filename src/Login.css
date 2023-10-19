@@ -1,0 +1,87 @@
+/* styles.css */
+
+/* Center the Login component */
+/* .VStack {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+  } */
+  .Fullsc{
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+  }
+ 
+  /* Style the form */
+  FormControl {
+    width: 100%;
+    max-width: 300px;
+  }
+  .login-form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  FormLabel {
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+  }
+  
+  /* Style the input fields */
+  Input {
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
+  /* Style the show/hide button */
+  InputGroup {
+    position: relative;
+  }
+  
+  InputRightElement {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0 0.5rem;
+  }
+  
+
+
+/* Add a specific class for the button */
+.newb {
+  /* Your custom styles here */
+  background-color: #3182ce;
+  color: #ffffff;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.newb:hover {
+  background-color: #2c5282;
+}
+
+/* Adjust the width of the button */
+.newb {
+  width: 8%;
+}
+
+/* Adjust the margin of the button */
+.newb {
+  margin-top: 15px;
+}
