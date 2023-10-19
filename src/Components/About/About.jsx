@@ -24,6 +24,7 @@ const About = () => {
               <br />
               <span>StudySphere is designed to revolutionize the way students approach their education.</span>
               <span> Whether you're struggling with a tough subject, seeking study buddies, or looking to expand your academic network, StudySphere has you covered.</span>
+              <span>So, come join us in our journey.</span>
             </span>
 
             <Accordion className="accordion" 
